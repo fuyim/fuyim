@@ -13,7 +13,6 @@
 <hr/>
 
 <a href="./img/微信公众号.png"><img src="https://img.shields.io/badge/公众号-编程游客-green?style=flat&logo=WeChat&logoColor=white&color=2bbc8a"  /></a><a href="https://gitee.com/fuyim"><img src="https://img.shields.io/badge/开源-gitee-green?style=flat&logo=Gitee&logoColor=white&color=2bbc8a"  /></a><a href="https://github.com/fuyim"><img src="https://img.shields.io/badge/开源-github-green?style=flat&logo=GitHub&logoColor=white&color=2bbc8a"  /></a>
-<a href="./img/微信公众号.png"><img src="https://img.shields.io/badge/公众号-编程游客-green?style=flat&logo=WeChat&logoColor=white&color=2bbc8a"  /></a><a href="https://gitee.com/fuyim"><img src="https://img.shields.io/badge/开源-gitee-green?style=flat&logo=Gitee&logoColor=white&color=2bbc8a"  /></a><a href="https://github.com/fuyim"><img src="https://img.shields.io/badge/开源-github-green?style=flat&logo=GitHub&logoColor=white&color=2bbc8a"  /></a>
 
 <img src="https://img.shields.io/badge/code-java-green?style=flat&logoColor=white&color=2bbc8a"  /><img src="https://img.shields.io/badge/code-js-green?style=flat&logo=javascript&logoColor=white&color=2bbc8a"  /><img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"  /><img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a"  /><img src="https://img.shields.io/badge/Editor-IntelliJ_WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a"  />
 
