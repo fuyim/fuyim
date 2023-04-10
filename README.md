@@ -6,8 +6,6 @@
 - 😉 新手一枚，一名在校大学生。
 - 💬 微信公众号：<a href="./img/微信公众号.png" target="_blank">『 编程游客 』</a>
 
-[![Security Status](https://www.murphysec.com/platform3/v3/badge/1610448892957601792.svg?t=1)](https://www.murphysec.com/accept?code=03c88fca1ad0c22dcb19f8b908880791&type=1&from=2&t=2)
-
 <h4>关于我</h4>
 
 <hr/>
